@@ -1,1 +1,4 @@
-Hola Git
+Hola Git, como estas?
+Un gusto conocerte
+Muchas gracias
+Adios
