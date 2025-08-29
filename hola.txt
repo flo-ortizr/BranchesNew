@@ -1,4 +1,4 @@
-Hola Git, como estas?
+Hola Flor, como estas?
 Un gusto conocerte
 Muchas gracias
 Adios
